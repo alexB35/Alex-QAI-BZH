@@ -10,11 +10,11 @@ Former Tier 3 Production Support Engineer with strong experience in:
 
 ## Skills
 
-Automation
+### Automation
 - Playwright
 - Robot Framework
 
-API Testing
+### API Testing
 - Postman
 - Bruno
 
@@ -22,7 +22,7 @@ API Testing
 - Test automation frameworks
 - GenAI testing
 
-Tools
+### Tools
 - GitHub
 - Jira
 - Xray
@@ -32,7 +32,7 @@ Tools
 - Oracle SQL Database
 - Microsoft SQL Server
 
-## Featured Projects
+### Featured Projects
 
 - QA Automation Portfolio
 - GenAI Testing Experiments
