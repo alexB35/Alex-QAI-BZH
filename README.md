@@ -47,6 +47,7 @@ Former Tier 3 Production Support Engineer with strong experience in :
 ### Testing
 - Test automation frameworks
 - GenAI testing
+- Agile Methodologies
 
 ---
 
