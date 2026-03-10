@@ -4,7 +4,7 @@
 ![Jira](https://img.shields.io/badge/Jira-Test_Management-blue)
 ![Xray](https://img.shields.io/badge/Xray-Test_Management-blue)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red)
-![MS SQL](https://img.shields.io/badge/MS-SQL-Database-red)
+![MS SQL](https://img.shields.io/badge/MS_SQL-Database-red)
 ![GenAI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
 ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-white)
 
