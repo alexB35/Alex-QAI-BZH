@@ -100,11 +100,11 @@ Jira test cases → Automation tests → Bug creation → GitHub → Test report
 
 Examples of QA workflow used in this project.
 
-Jira bug example:
+- Jira bug example:
 
 **Screenshot in progress**
 
-Automation test run:
+- Automation test run:
 
 **Screenshot in progress**
 
