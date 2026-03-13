@@ -69,24 +69,30 @@ Former Tier 3 Production Support Engineer with strong experience in :
 
 - QA automation frameworks
 - API testing and automation
-- GenAI testing and prompt validation
+- GenAI testing and meta-prompting
 - Test management with Jira and Xray
 
 ---
 
 ## Featured Projects
 
-- **QA Automation Portfolio** – End-to-end automation testing examples (UI + API)
-- **GenAI Testing Experiments** – Experiments on testing LLMs, prompt validation and hallucination detection
-- **API Testing Collection** – API testing with Postman
+- **QA Automation Portfolio** – End-to-end automation testing examples, including UI and API tests with Robot Framework and Playwright. Demonstrates real-world scenarios, user stories, and test automation practices.
+- **GenAI Testing Experiments** – AI-assisted testing experiments, using large language models to support test case generation, validation, and exploratory QA. Showcases practical approaches to improve testing efficiency with AI.
+- **QA Testing Lab** – Sandbox for exploratory QA projects, hands-on practice, and experimenting with different QA scenarios.
 
 ---
 
 ## Workflow
 
-Typical QA workflow used in my projects:
+A typical QA workflow implemented across my projects, showing integration of test planning, automation, bug tracking, and reporting:
 
-Jira → Test cases → Automation tests → GitHub → Test reporting
+Jira test cases → Automation tests → Bug creation → GitHub → Test reporting
+
+- **Jira** – Plan and document test cases and user stories.
+- **Automation Tests** - Execute end-to-end UI, API, and exploratory tests.
+- **Bug Creation** – Capture defects as Jira tickets for traceability.
+- **GitHub** – Store test scripts, maintain version control, and integrate CI/CD workflows.
+- **Test Reporting** – Generate detailed reports for transparency and metrics-driven QA.
 
 ---
 
@@ -106,19 +112,19 @@ Automation test run:
 
 ## Learning & Research
 
-Currently exploring:
+Current focus areas in my QA experimentation:
 
-- GenAI testing strategies
-- Prompt validation techniques
-- LLM hallucination detection
-- AI-assisted test generation
+- AI-assisted test case generation and validation
+- Using GenAI to support exploratory and automation testing
+- Improving prompt design and test input quality
 
 ---
 
 ## Certifications
 
-- ISTQB Certified Tester – Foundation Level (CTFL)
-- ISTQB CT-GenAI
+- **ISTQB Certified Tester – Foundation Level (CTFL)** ✅ Completed
+- **ISTQB CT-GenAI** - In progress - 🟡 In Progress
+- **ISTQB CT-TAL** – 🔵 Planned
 
 ---
 
