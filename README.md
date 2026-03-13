@@ -75,9 +75,9 @@ Former Tier 3 Production Support Engineer with strong experience in :
 
 ## Workflow
 
-A typical QA workflow implemented across my projects, showing integration of test planning, automation, bug tracking, integration and reporting:
+A typical QA workflow implemented across my projects, showing integration of test planning, automation, bug tracking and reporting:
 
-Jira test cases → Automation tests → Bug creation → GitHub → Test reporting
+Jira test cases → Automation tests → Bug creation → Test reporting → GitHub
 
 ---
 
