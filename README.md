@@ -50,15 +50,14 @@ Former Tier 3 Production Support Engineer with strong experience in :
 
 ---
 
-### Tools
-- GitHub
+### Other Tools
+- GitHub Actions
 - Jira
 - Xray
 - Squash TM
 - Mantis
 - VS Code
-- Oracle SQL Database
-- Microsoft SQL Server
+- Microsoft SQL Server / Oracle SQL Database
 - Kibana
 - Prometheus
 
