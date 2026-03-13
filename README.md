@@ -77,6 +77,7 @@ Former Tier 3 Production Support Engineer with strong experience in :
 
 The following diagram illustrates the QA workflow implemented across my projects.
 
+
 A [User Story - Jira] --> B [Test Case Design]
 
 B --> C [Automation Development]
