@@ -12,7 +12,7 @@
 
 QA Automation Engineer focused on **test automation, functional testing, API testing and GenAI testing.**
 
-Currently working for critical national systems handling sensitive data (GDPR).
+Currently working on critical national systems handling sensitive data (GDPR).
 
 ---
 
@@ -20,14 +20,16 @@ Currently working for critical national systems handling sensitive data (GDPR).
 
 Started my IT journey in February 2023 with an internship in the Testing Department at CGI, as part of my ISTQB Foundation training. During this experience, I worked as a functional tester on a French public finance application with nationwide scope.
 
-I then progressed to a Tier 3 Production Support Engineer role, where I further developed my skills in:
+I then progressed to a Tier 3 Production Support Engineer role, where I developed strong expertise in:
 
-- root cause analysis and resolution of complex production incidents in multi-component systems
-- execution of functional and regression testing prior to production releases
+- Incident analysis, root cause investigation, and resolution of complex production issues in multi-component systems
+- Execution of functional and regression testing prior to production releases
 - SQL-based data validation and production data correction
-- monitoring system performance and ensuring stability of critical business applications
-- reproducing defects and delivering detailed incidents reports
-- collaborating with development teams to investigate and resolve issues
+- Monitoring system performance and ensuring stability of critical business applications
+- Reproducing defects and providing detailed incident reports
+- Collaborating with development teams to investigate and resolve issues
+
+Actively transitioning into QA Automation, with a strong focus on Playwright, API testing, and CI/CD integration.
 
 ---
 
@@ -46,7 +48,7 @@ I then progressed to a Tier 3 Production Support Engineer role, where I further 
 ---
 
 ### Testing
-- Test automation frameworks
+- Test automation design and implementation
 - GenAI testing
 - Agile Methodologies
 
