@@ -1,16 +1,14 @@
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
-![Robot Framework](https://img.shields.io/badge/Robot_Framework-Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
 ![Jira](https://img.shields.io/badge/Jira-Test_Management-blue)
-![Xray](https://img.shields.io/badge/Xray-Test_Management-blue)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red)
 ![MS SQL](https://img.shields.io/badge/MS_SQL-Database-red)
-![GenAI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
+![AI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
 ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-white)
 
 # 👋 Hi, I'm Alexandre
 
-QA Automation Engineer focused on **test automation, functional testing, API testing and GenAI testing.**
+QA Automation Engineer focused on **test automation, functional testing, API testing and AI-assisted testing.**
 
 Currently working on critical national systems handling sensitive data (GDPR).
 
@@ -18,7 +16,9 @@ Currently working on critical national systems handling sensitive data (GDPR).
 
 ## Background
 
-Started my IT journey in February 2023 with an internship in the Testing Department at CGI, as part of my ISTQB Foundation training. During this experience, I worked as a functional tester on a French public finance application with nationwide scope.
+Started my IT journey in February 2023 with an internship in the Testing Department at CGI, as part of my ISTQB Foundation training. 
+
+During this experience, I worked as a functional tester on a French public finance application with nationwide scope.
 
 I then progressed to a Tier 3 Production Support Engineer role, where I developed strong expertise in:
 
@@ -37,19 +37,20 @@ Actively transitioning into QA Automation, with a strong focus on Playwright, AP
 
 ### Automation
 - Playwright
-- Robot Framework
+- TypeScript
 
 ---
 
 ### API Testing
 - Postman
+- Newman
 - Bruno
 
 ---
 
 ### Testing
 - Test automation design and implementation
-- GenAI testing
+- AI-assisted testing
 - Agile Methodologies
 
 ---
@@ -60,8 +61,7 @@ Actively transitioning into QA Automation, with a strong focus on Playwright, AP
 - Xray
 - Squash TM
 - Mantis
-- VS Code
-- Microsoft SQL Server / Oracle SQL Database
+- MS SQL Server / Oracle SQL
 - Kibana
 - Prometheus
 
@@ -87,4 +87,5 @@ Actively transitioning into QA Automation, with a strong focus on Playwright, AP
 
 ## Contact
 
-https://www.linkedin.com/in/alexandre-bernard-auto-qai-35fr
+- LinkedIn : https://www.linkedin.com/in/alexandre-bernard-auto-qai-35fr
+- Mail : alex.b35@live.fr
