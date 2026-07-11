@@ -24,28 +24,23 @@ Currently working on critical national systems handling sensitive data (GDPR).
 
 ## Background
 
-Started my IT journey in February 2023 with an internship in the Testing Department at CGI, as part of my ISTQB Foundation training. 
-
-During this experience, I worked as a functional tester on a French public finance application with nationwide scope.
-
-I then progressed to a Tier 3 Production Support Engineer role, where I developed strong expertise in:
-
-- Incident analysis, root cause investigation, and resolution of complex production issues in multi-component systems
-- Execution of functional and regression testing prior to production releases
-- SQL-based data validation and production data correction
-- Monitoring system performance and ensuring stability of critical business applications
-- Reproducing defects and providing detailed incident reports
-- Collaborating with development teams to investigate and resolve issues
-
-I now work as a QA Engineer, where I:
-
+**QA Engineer** · CGI · *Current*
 - Design and execute functional test campaigns for critical sensitive-data applications
 - Contribute to automation by defining test scopes and preparing automation-ready test cases
-- Execute automated regression test suites and analyze execution logs to distinguish genuine application defects from test script issues (e.g. outdated selectors)
+- Analyze test execution logs to distinguish genuine defects from script issues (e.g. outdated selectors)
 - Log defect reports in Mantis with steps, screenshots, and test evidence to accelerate resolution
 - Contribute to defining test strategy and producing test summary reports for UAT phases
 
-Building on this foundation, I'm actively deepening my automation skills — Playwright, API testing, and CI/CD integration — through the hands-on projects below.
+**Tier 3 Production Support Engineer** · CGI
+- Incident analysis, root cause investigation, and resolution of complex production issues in a Telecom multi-application systems
+- Functional and regression testing prior to production releases
+- SQL-based data validation and production data correction
+- Defect reproduction and detailed incident reporting, in close collaboration with development teams
+
+**QA Intern** · CGI · *Feb 2023*
+- Functional testing on a French public finance application with nationwide scope, alongside ISTQB Foundation training
+
+Now deepening my automation expertise — Playwright, API testing, CI/CD — through the hands-on projects below.
 
 ---
 
