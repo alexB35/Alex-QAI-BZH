@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF)
@@ -7,8 +9,10 @@
 ![Jira](https://img.shields.io/badge/Jira-Test_Management-blue)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red)
 ![MS SQL](https://img.shields.io/badge/MS_SQL-Database-red)
-![AI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
+![AI Testing](https://img.shields.io/badge/AI-Testing-purple)
 ![ISTQB](https://img.shields.io/badge/ISTQB-Certified-blue)
+
+</div>
 
 # 👋 Hi, I'm Alexandre
 
