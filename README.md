@@ -16,16 +16,14 @@
 
 # 👋 Hi, I'm Alexandre
 
-QA Automation Engineer focused on **test automation, functional testing, API testing and AI-assisted testing.**
-
-Currently working on critical national systems handling sensitive data (GDPR).
+QA Automation Engineer focused on **test automation, functional & API testing, CI/CD integration and AI-assisted testing.**
 
 ---
 
 ## Background
 
 **QA Engineer** · CGI · *Current*
-- Design and execute functional test campaigns for critical sensitive-data applications
+- Design and execute functional test campaigns for critical sensitive-data (GDPR) applications
 - Contribute to automation by defining test scopes and preparing automation-ready test cases
 - Analyze test execution logs to distinguish genuine defects from script issues (e.g. outdated selectors)
 - Log defect reports in Mantis with steps, screenshots, and test evidence to accelerate resolution
