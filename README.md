@@ -37,7 +37,15 @@ I then progressed to a Tier 3 Production Support Engineer role, where I develope
 - Reproducing defects and providing detailed incident reports
 - Collaborating with development teams to investigate and resolve issues
 
-Actively transitioning into QA Automation, with a strong focus on Playwright, API testing, and CI/CD integration.
+I now work as a QA Engineer, where I:
+
+- Design and execute functional test campaigns for critical sensitive-data applications
+- Contribute to automation by defining test scopes and preparing automation-ready test cases
+- Execute automated regression test suites and analyze execution logs to distinguish genuine application defects from test script issues (e.g. outdated selectors)
+- Log defect reports in Mantis with steps, screenshots, and test evidence to accelerate resolution
+- Contribute to defining test strategy and producing test summary reports for UAT phases
+
+Building on this foundation, I'm actively deepening my automation skills — Playwright, API testing, and CI/CD integration — through the hands-on projects below.
 
 ---
 
