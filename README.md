@@ -1,10 +1,14 @@
 ![Playwright](https://img.shields.io/badge/Playwright-Automation-green)
 ![Postman](https://img.shields.io/badge/Postman-API_Testing-orange)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI/CD-2088FF)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-CI/CD-0078D7)
+![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED)
+![Allure](https://img.shields.io/badge/Allure-Test%20Reporting-ff69b4)
 ![Jira](https://img.shields.io/badge/Jira-Test_Management-blue)
 ![Oracle SQL](https://img.shields.io/badge/Oracle-SQL-red)
 ![MS SQL](https://img.shields.io/badge/MS_SQL-Database-red)
 ![AI Testing](https://img.shields.io/badge/GenAI-Testing-purple)
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified-white)
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified-blue)
 
 # 👋 Hi, I'm Alexandre
 
@@ -57,35 +61,38 @@ Actively transitioning into QA Automation, with a strong focus on Playwright, AP
 
 ### Other Tools
 - GitHub Actions
+- Azure DevOps
 - Jira
 - Xray
 - Squash TM
 - Mantis
+- Docker
 - MS SQL Server / Oracle SQL
 - Kibana
 - Prometheus
+- Allure
 
 ---
 
 ## Featured Projects
 
-- **QA Automation Portfolio** – End-to-end automation testing examples, including UI and API tests with Playwright and Postman, showcases real-world scenarios and test automation practices.
-  
-- **GenAI Testing Experiments** – AI-assisted testing to support test case and test script generation, as well as exploratory QA.
-  
-- **QA Testing Lab** – Sandbox for diverse QA experiments and hands-on learning.
+- **[QA Automation Portfolio](https://github.com/alexB35/qa-automation-portfolio)** – End-to-end automation testing examples, including UI and API tests with Playwright and Postman, showcases real-world scenarios and test automation practices.
+
+### 🚧 In progress
+
+- **QA Python Test** – OrangeHRM UI & API test suite (Python / Playwright / pytest), Azure DevOps CI.
+
+- **QA AI Local Agent** – Local AI-assisted testing agent for test case and script generation.
 
 ---
 
 ## Certifications
 
 - **ISTQB Certified Tester – Foundation Level (CTFL)** ✅ Completed
-- **ISTQB CT-GenAI** - 🟡 In Progress
-- **ISTQB CT-TAL** – 🔵 Planned
 
 ---
 
 ## Contact
 
-- LinkedIn : https://www.linkedin.com/in/alexandre-bernard-auto-qai-35fr
-- Mail : alex.b35@live.fr
+- LinkedIn : https://www.linkedin.com/in/alexandre-bernard-qa-auto
+- Mail : alexandrebernard.qa@gmail.com
