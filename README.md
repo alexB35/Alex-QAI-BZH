@@ -29,7 +29,7 @@ QA Automation Engineer focused on **test automation, functional & API testing, C
 - Log defect reports in Mantis with steps, screenshots, and test evidence to accelerate resolution
 - Contribute to defining test strategy and producing test summary reports for UAT phases
 
-**Tier 3 Production Support Engineer** · CGI
+**Tier 3 Production Support Engineer** · CGI *2024 - 2026*
 - Incident analysis, root cause investigation, and resolution of complex production issues in a Telecom multi-application systems
 - Functional and regression testing prior to production releases
 - SQL-based data validation and production data correction
